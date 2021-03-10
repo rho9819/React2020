@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    position: relative;
+    font-size: 3.7vh;
+    right: 19.4vh;
+    width: 1vw;
+}
+.menu{
+    position: absolute;
+    float: right;
+    display: flex;
+    font-size: 2.3vh;
+    left: 25vh;
+}
+.dhseh{
+    margin-right: 5.7vh;
+    width: 35vh;
+    height: 5vh;
+    text-align:center;
+} 
+.ajswl{
+    margin-right:5.7vh;
+    width: 35vh;
+    height: 5vh;
+    text-align:center;
+}
+.rmqtlr{
+    margin-right: 5.7vh;
+    width: 35vh;
+    height: 5vh;
+    text-align:center;
+}
+.Temperature{
+    position: relative;
+    border: solid yellow;
+    width: 40vh;
+    height: 70vh;
+    top: 15vh;
+    left: 40vh;
+}
+.finedust{
+    position: relative;
+    border: solid skyblue;
+    width: 60vh;
+    height: 30vh;
+    left: 82.5vh;
+    bottom: 55.5vh;
+}
+.cafeteria{
+    position: absolute;
+    border: solid red;
+    width: 60vh;
+    height: 37.1vh;
+    left: 82.5vh;
+    top: 47.7vh;
+}
